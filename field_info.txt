@@ -1,0 +1,28 @@
+AFreeways
+Field_name: OBJECTID, field_type: OID, field_length: OID
+--------------------------------------------------------------------
+Field_name: STREET_NAM, field_type: String, field_length: String
+--------------------------------------------------------------------
+Field_name: Shape, field_type: Geometry, field_length: Geometry
+--------------------------------------------------------------------
+Field_name: Shape_Length, field_type: Double, field_length: Double
+--------------------------------------------------------------------
+MajorAttractions
+Field_name: OBJECTID, field_type: OID, field_length: OID
+--------------------------------------------------------------------
+Field_name: NAME, field_type: String, field_length: String
+--------------------------------------------------------------------
+Field_name: ESTAB, field_type: Integer, field_length: Integer
+--------------------------------------------------------------------
+Field_name: ADDR, field_type: String, field_length: String
+--------------------------------------------------------------------
+Field_name: CITYNM, field_type: String, field_length: String
+--------------------------------------------------------------------
+Field_name: ZIP, field_type: String, field_length: String
+--------------------------------------------------------------------
+Field_name: EMP, field_type: Integer, field_length: Integer
+--------------------------------------------------------------------
+Field_name: ACRES, field_type: Integer, field_length: Integer
+--------------------------------------------------------------------
+Field_name: Shape, field_type: Geometry, field_length: Geometry
+--------------------------------------------------------------------

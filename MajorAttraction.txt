@@ -1,0 +1,37 @@
+MajorAttraction feature class field description 
+field name = OBJECTID 
+field type = OID 
+field size = 4 
+-----------------------------------------
+field name = NAME 
+field type = String 
+field size = 35 
+-----------------------------------------
+field name = ESTAB 
+field type = Integer 
+field size = 4 
+-----------------------------------------
+field name = ADDR 
+field type = String 
+field size = 32 
+-----------------------------------------
+field name = CITYNM 
+field type = String 
+field size = 16 
+-----------------------------------------
+field name = ZIP 
+field type = String 
+field size = 5 
+-----------------------------------------
+field name = EMP 
+field type = Integer 
+field size = 4 
+-----------------------------------------
+field name = ACRES 
+field type = Integer 
+field size = 4 
+-----------------------------------------
+field name = Shape 
+field type = Geometry 
+field size = 0 
+-----------------------------------------
